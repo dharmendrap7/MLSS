@@ -109,7 +109,11 @@ export const navigations = [
       }
     ]
   },
-  
+  {
+    name: "Profile",
+    path: "/profile/userProfile",
+    icon: "dashboard"
+  },
   
 
   {
